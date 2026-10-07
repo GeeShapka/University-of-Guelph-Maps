@@ -1,6 +1,10 @@
 # University-of-Guelph-Maps
 A repository of maps within buildings on the main University of Guelph campus.
 
+# Table of Contents
+* [Buildings](#buildings)
+* [Contribution Rules](#contribution-rules)
+
 # Buildings
 * [MacKinnon](#mackinnon)
 
@@ -19,3 +23,34 @@ A repository of maps within buildings on the main University of Guelph campus.
 ## Univercity Centre
 * [Level 1](UniversityCentre/Level%201/)
 * [Level 3](UniversityCentre/Level%201/)
+
+
+# Contribution & Rules
+
+### Formatting
+* Building names must PascalCase (All words uppercase and no spaces. ForExampleThisIsPascalCase)
+* Levels must be capitalized with a space between "Level" and the floor number
+* maps must be named "BuildingName #", also capitalized with a space
+#### Folder structure
+
+```
+University-of-Guelph-Maps
+├── NorthBuilding
+│   ├── Level 0
+│   │   └── Map 1.jpg
+│   └── Level 1
+│       └── Map 0.jpg
+└── FoodBuilding
+    ├── Level 1
+    │   └── Map 1.jpg
+    ├── Level 2
+    │   └── Map 2.jpg
+    └── Level 3
+        └── Map 3.jpgBuilding
+```
+
+
+### Rules
+* Maps must not be annotated or altered
+* Map text is not required to be legible, but it is preferred
+* Map images must not have a low resolution
