@@ -4,6 +4,7 @@ A repository of maps within buildings on the main University of Guelph campus.
 # Table of Contents
 * [Buildings](#buildings)
 * [Contribution Rules](#contribution-rules)
+* [Contributors](#contributors)
 
 # Buildings
 * [MacKinnon](#mackinnon)
@@ -55,3 +56,7 @@ University-of-Guelph-Maps
 * Map text is not required to be legible, but it is preferred
 * Map images must not have a low resolution
 * Non-map images are allowed so long as they are relevant to a buildings wayfinding
+
+
+# Contributors
+* George Shapka
