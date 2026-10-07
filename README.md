@@ -27,9 +27,10 @@ A repository of maps within buildings on the main University of Guelph campus.
 
 
 # Contribution & Rules
+If you are not familiar with GitHub/git, feel free to 
 
 ### Formatting
-* Building names **must** PascalCase (All words uppercase and no spaces). For example: ThisIsPascalCase
+* Building names **must** be PascalCase (All words uppercase and no spaces). For example: ThisIsPascalCase
 * Levels **must** be capitalized with a space between "Level" and the floor number
 * Maps **must** be named "BuildingName #", also capitalized and with a space
 #### Folder structure
