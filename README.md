@@ -28,9 +28,9 @@ A repository of maps within buildings on the main University of Guelph campus.
 # Contribution & Rules
 
 ### Formatting
-* Building names must PascalCase (All words uppercase and no spaces. ForExampleThisIsPascalCase)
-* Levels must be capitalized with a space between "Level" and the floor number
-* maps must be named "BuildingName #", also capitalized with a space
+* Building names **must** PascalCase (All words uppercase and no spaces). For example: ThisIsPascalCase
+* Levels **must** be capitalized with a space between "Level" and the floor number
+* Maps **must** be named "BuildingName #", also capitalized and with a space
 #### Folder structure
 
 ```
@@ -54,3 +54,4 @@ University-of-Guelph-Maps
 * Maps must not be annotated or altered
 * Map text is not required to be legible, but it is preferred
 * Map images must not have a low resolution
+* Non-map images are allowed so long as they are relevant to a buildings wayfinding
