@@ -6,6 +6,9 @@ A repository of maps within buildings on the main University of Guelph campus.
 * [Contribution Rules](#contribution-rules)
 * [Contributors](#contributors)
 
+# Disclaimer
+I am a student at the University of Guelph; I am not an employee or official representative of the university. The maps and underlying data in this repository are the property of the University of Guelph and are shared here for educational purposes only.
+
 # Buildings
 * [MacKinnon](#mackinnon)
 * [MacNaughton](#macnaughton)
