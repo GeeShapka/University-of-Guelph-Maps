@@ -8,10 +8,14 @@ A repository of maps within buildings on the main University of Guelph campus.
 
 # Buildings
 * [MacKinnon](#mackinnon)
+* [MacNaughton](#macnaughton)
+* [Rozanski Hall](#rozanski-hall)
+* [Univercity Centre](#univercity-centre)
 
 
 ## MacKinnon
 * [Level 1](MacKinnon/Level%201/)
+* [Level 2](MacKinnon/Level%202/)
 * [Level 3](MacKinnon/Level%203/)
 
 ## MacNaughton
@@ -27,13 +31,11 @@ A repository of maps within buildings on the main University of Guelph campus.
 
 
 # Contribution & Rules
-If you are not familiar with GitHub/git, feel free to 
-
 ### Formatting
 * Building names **must** be PascalCase (All words uppercase and no spaces). For example: ThisIsPascalCase
 * Levels **must** be capitalized with a space between "Level" and the floor number
 * Maps **must** be named "BuildingName #" where # is the floor number. Also PascalCase and with a space
-* If an image is added to improve clarity of an existing map, the name **must** be named "BuildingName #1-#2" where #1 is the floor number, and #2 is the next number in the sequence of clarity images([see Folder Structure for example](#folder-structure))
+* If an image is added to improve clarity of an existing map, the name **must** be named "BuildingName #1-#2" where #1 is the floor number, and #2 is the next number in the sequence of clarity images([see MacKinnon level 2 for example](MacKinnon/Level%202/))
 #### Folder structure
 
 ```
