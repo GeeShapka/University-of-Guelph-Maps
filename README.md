@@ -2,6 +2,7 @@
 A repository of maps within buildings on the main University of Guelph campus.
 
 # Table of Contents
+* [Disclaimer](#disclaimer)
 * [Buildings](#buildings)
 * [Contribution Rules](#contribution-rules)
 * [Contributors](#contributors)
