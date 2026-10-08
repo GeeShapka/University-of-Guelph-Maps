@@ -32,23 +32,27 @@ If you are not familiar with GitHub/git, feel free to
 ### Formatting
 * Building names **must** be PascalCase (All words uppercase and no spaces). For example: ThisIsPascalCase
 * Levels **must** be capitalized with a space between "Level" and the floor number
-* Maps **must** be named "BuildingName #", also capitalized and with a space
+* Maps **must** be named "BuildingName #" where # is the floor number. Also PascalCase and with a space
+* If an image is added to improve clarity of an existing map, the name **must** be named "BuildingName #1-#2" where #1 is the floor number, and #2 is the next number in the sequence of clarity images([see Folder Structure for example](#folder-structure))
 #### Folder structure
 
 ```
 University-of-Guelph-Maps
 ├── NorthBuilding
 │   ├── Level 0
-│   │   └── Map 1.jpg
+│   │   └── NorthBuilding 0.jpg
 │   └── Level 1
-│       └── Map 0.jpg
+│       └── NorthBuilding 1.jpg
+│       └── NorthBuilding 1-1.jpg
+│       └── NorthBuilding 1-2.jpg
 └── FoodBuilding
     ├── Level 1
-    │   └── Map 1.jpg
+    │   └── FoodBuilding 1.jpg
     ├── Level 2
-    │   └── Map 2.jpg
+    │   └── FoodBuilding 2.jpg
+    │   └── FoodBuilding 2-1.jpg
     └── Level 3
-        └── Map 3.jpgBuilding
+        └── FoodBuilding 3.jpgBuilding
 ```
 
 
