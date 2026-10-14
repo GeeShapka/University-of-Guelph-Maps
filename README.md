@@ -14,6 +14,7 @@ I am a student at the University of Guelph; I am not an employee or official rep
 * [MacKinnon](#mackinnon)
 * [MacNaughton](#macnaughton)
 * [Rozanski Hall](#rozanski-hall)
+* [Science Complex](#science-complex)
 * [Univercity Centre](#univercity-centre)
 
 
@@ -28,6 +29,9 @@ I am a student at the University of Guelph; I am not an employee or official rep
 
 ## Rozanski Hall
 * [Level 1](RozanskiHall/Level%201)
+
+## Science Complex
+* [Level 1](ScienceComplex/Level%201)
 
 ## Univercity Centre
 * [Level 1](UniversityCentre/Level%201/)
